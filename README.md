@@ -107,7 +107,7 @@ def recommend(movie):
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/netflix-movie-recommender.git
+   git clone https://github.com/alphasuraj18/netflix-movie-recommender.git
    cd netflix-movie-recommender
    ```
 
